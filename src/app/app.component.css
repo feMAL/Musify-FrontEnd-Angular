@@ -1,0 +1,20 @@
+.topNav {
+    height: 20%;
+    margin: 0%;
+    background-color: coral;
+    align-items: flex-end
+}
+.topNav input {
+    align-self: initial;
+}
+
+
+body {
+    height: 100%;
+    background-color: #b3f3de
+}
+
+footer {
+    text-align: center;
+    align-self: center;
+}
